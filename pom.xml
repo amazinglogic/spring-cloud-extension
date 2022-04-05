@@ -11,6 +11,7 @@
     <modules>
         <module>spring-cloud-sleuth-extension-transmittable</module>
         <module>spring-cloud-sleuth-extension-mybatis</module>
+        <module>spring-cloud-sleuth-extension-feign</module>
     </modules>
 
     <properties>
