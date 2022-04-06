@@ -1,0 +1,4 @@
+# Project exclude paths
+/spring-cloud-sleuth-extension-mybatis/target/
+/spring-cloud-sleuth-extension-transmittable/target/
+/.idea/
